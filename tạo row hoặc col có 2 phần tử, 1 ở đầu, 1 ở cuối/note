@@ -1,0 +1,1 @@
+Add Space() widget between 2 children of row widget, Space() will extract max possible space it can.

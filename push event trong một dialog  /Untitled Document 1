@@ -1,0 +1,2 @@
+Khi push event bằng BlocProvider thì context nhận vào là của hàm build trong Stateful hoặc Stateless(ở đây gọi this.context)
+Nếu gọi truyền vào context, ở đây BlocProvider  hiểu là context của hàm builder trong showCupertinoDialog -> sẽ lỗi
